@@ -1,4 +1,4 @@
-## Olá! eu sou o Patrick Ursi 
+#### Olá! eu sou o Patrick Ursi, estudante de programação.
 
 <div align="center">
   <a href="https://github.com/PatrickUrsi">
